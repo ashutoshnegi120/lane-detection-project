@@ -20,7 +20,7 @@ To run this project, you need the following prerequisites:
    ```
 3. Open the project in your preferred Python IDE or editor.
 4. Modify the input source path (image file or video file) in the main script as required.
-5. Run the main script, `lane_detection.py`.
+5. Run the main script, `lanes.py`.
 
 ## Approach
 The lane detection algorithm implemented in this project follows a common computer vision approach. The key steps involved are as follows:
